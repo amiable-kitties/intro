@@ -1,0 +1,1 @@
+This is a small intro website for the Amiable Kitties NFT community.
